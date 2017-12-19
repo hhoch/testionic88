@@ -1,0 +1,12 @@
+{
+    "ios": {
+      "debug": {
+        "developmentTeam": "compeople AG"
+      },
+      "release": {
+        "developmentTeam": "compeople AG",
+        "codeSignIdentity": "iPhone Distribution: compeople AG (5237UA8W49)"
+      }
+    }
+  }
+  
