@@ -1,11 +1,13 @@
 {
     "ios": {
       "debug": {
-        "developmentTeam": "compeople AG"
+        "developmentTeam": "5237UA8W49"
       },
       "release": {
         "developmentTeam": "5237UA8W49",
-        "codeSignIdentity": "iPhone Distribution: compeople AG (5237UA8W49)"
+        "codeSignIdentity": "iPhone Distribution: compeople AG (5237UA8W49)",
+        "provisioningProfile": "72c5cdb5-4731-4bb6-b7aa-43d9444e086a",
+        "packageType": "ad-hoc"
       }
     }
   }
